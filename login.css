@@ -1,0 +1,198 @@
+.log_in{
+    width: 400px;
+    float: left;
+    margin-right: 37px;
+    background: white;
+}
+.bg{
+
+    margin-top: 160px;
+}
+.log_in_bg{
+    width: 269px;
+    margin: auto;
+    margin-top: 37px;
+    margin-bottom: 57px;
+}
+.log_in h2{}
+.log_in form{}
+.log_in p{
+    color: #000000;
+    font-weight: bold;
+    margin-top: 17px;
+}
+.text7{
+	border: 1px solid rgba(128, 128, 128, 0.26);
+    width: 262px;
+    height: 51px;
+    margin-top: -23px;
+    border-radius: 4px;
+}
+.text8{
+	width: 231px;
+    height: 33px;
+    border: 1px solid rgba(128, 128, 128, 0.37);
+    margin-top: 27px;}
+.log_in input[type=checkbox]{
+	 margin-right: 12px;
+}
+.form{}
+.log_in_bg a{}
+.submit_new{
+    margin-top: 19px;
+    background: white;
+    border: 2px solid rgba(128, 128, 128, 0.81);
+    color: black;
+    margin-right: 31px;
+    margin-bottom: 30px;
+    height: 50px;
+    width: 116px;
+}
+.register{
+    margin-top: -62px;
+    overflow: hidden;
+}
+.register_bg{
+ width: 419px;
+    background: rgba(128, 128, 128, 0.09);
+    border: 1px solid rgba(128, 128, 128, 0.09);
+}
+.register h2{}
+.register form{
+    margin-top: 20px;
+ 
+}
+.register p{
+	color: black;
+    font-weight: bold;
+    margin-top: 34px;
+}
+.text8{
+	width: 315px;
+    border: 1px solid rgba(128, 128, 128, 0.47);
+    height: 51px;
+    border-radius: 4px;
+    margin-top: -15px;
+}
+.register_width{
+    width: 327px;
+    margin: auto;
+
+}
+input[type=checkbox], input[type=radio] {
+    margin: 4px 0 0;
+    margin-top: 1px\9;
+    line-height: normal;
+    margin-right: 14px;
+    margin-top: 33px;
+    font-size: 30px;
+    color: black;
+}
+.register_width p{
+	font-size: 20px;
+    margin-top: 24px;
+    color: #5a5656;
+}
+.register_width input[type=checkbox]{    float: left;}
+.right_side_bar{}
+.text{
+	width: 231px;
+    height: 33px;
+    border: 1px solid rgba(128, 128, 128, 0.37);
+    margin-top: 27px;
+}
+.right_side_bar{
+	margin-top: 159px;
+    background: white;
+}
+.right_side_bar_two{
+	    width: 233px;
+    margin: auto;
+}
+.right_side_bar_two i{
+    margin-left: 200px;
+    font-size: 19px;
+    margin-top: -28px;
+    position: absolute;
+    color: rgba(128, 128, 128, 0.71);
+    text-align: center;
+}
+.recent_post{}
+.recent_post h2{
+	font-size: 17px;
+}
+.border{
+	background: #a92626;
+    height: 1px;
+    margin-bottom: 25px;
+}
+.border_two{}
+.post{
+	border-bottom: 1px solid rgba(128, 128, 128, 0.37);
+    margin-bottom: 24px;
+}
+.post_post{
+	border-bottom: 1px solid rgba(128, 128, 128, 0.37);
+    margin-bottom: 24px;
+}
+.post_post img{
+	width: 100px;
+    float: left;
+    margin-right: 13px;
+}
+.post_post h3{
+	    color: #a92626;
+}
+.post_post p{}
+.post img{
+	width: 100px;
+    float: left;
+    margin-right: 13px;
+}
+.archives ul{
+	margin:0px;
+	margin:0px;
+	list-style:none
+}
+.archives{overflow:hidden}
+.archives ul li{}
+.archives ul li a{
+	color: gray;
+    font-size: 14px;
+}
+.post h3{
+	color: red;
+    margin-bottom: 34px;
+}
+.post p{
+	font-size: 19px;
+    color: rgba(128, 128, 128, 0.72);
+}
+.submit5{
+    margin-top: -39px;
+    position: absolute;
+    margin-left: 185px;
+    height: 37px;
+    border: 1px solid rgba(128, 128, 128, 0);
+    color: #ffffff;
+    width: -52px;
+    background: white;
+    border-left: 1px solid rgba(128, 128, 128, 0.26);
+    border-left: 1px solid rgba(128, 128, 128, 0.26);
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}

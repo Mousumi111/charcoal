@@ -1,0 +1,88 @@
+.shop{
+    margin-top: 157px;
+    text-align: center;
+    height: 73px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.3)
+}
+.shop h2{
+	text-align: left;
+    color: gray;
+}
+
+.paragraph{
+	    width: 400px;
+    float: left;
+    margin-right: 276px;
+}
+.shop_text{}
+.paragraph p{}
+.paragraph h6{}
+.default{
+	margin-top: 124px;
+}
+.default form{}
+.default select option{}
+.first_new{
+     width: 278px;
+    height: 506px;
+    background: white;
+}
+.first_new img{
+    width: 278px;
+    height: 372px;
+    background: rgba(128, 128, 128, 0.41);
+}
+.first_new a{}
+.first_new p{}
+.first_new button{
+    padding: 10px 11px;
+    float: left;
+    color: black;
+    margin-left: 10px;
+    background: white;
+    border: 1px solid black;
+}
+.first_new p {
+
+    color: rgba(72, 69, 69, 0.69);
+    font-size: 18px;
+    text-align: center;
+    margin-top: 13px;
+}
+.first_one{
+    width: 278px;
+    height: 555px;
+    background: white;
+}
+
+.first_one img{
+	width: 278px;
+    height: 421px;
+    background: rgba(128, 128, 128, 0.41);
+}
+.first_one a{
+	text-decoration:none
+}
+.first_one p{
+
+    color: rgba(72, 69, 69, 0.69);
+    font-size: 18px;
+    text-align: center;
+    margin-top: 13px;
+}
+.first_one button{
+		    padding: 10px 11px;
+    float: left;
+    color: white;
+    margin-left: 10px;
+}
+.first p {
+    background: white;
+    padding: 0px 0px; 
+   
+}
+button, select {
+    text-transform: none;
+    padding: 7px 1px;
+    
+}

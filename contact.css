@@ -1,0 +1,51 @@
+.contact{
+	    margin-top: 162px;
+		overflow:hidden
+}
+.text1{
+	    width: 714px;
+    height: 49px;
+    margin-bottom: 20px;
+    padding: 21px;
+    border: 1px solid rgba(128, 128, 128, 0.45);
+    border-radius: 4px;
+}
+.{}
+.{}
+.check{}
+.submit{}
+textarea{
+	width: 713px;
+    height: 240px;
+    padding: 19px;
+    border: 1px solid rgba(128, 128, 128, 0.43);
+    border-radius: 4px;
+}
+.contact_info{
+	    margin-top: 162px;
+		overflow:hidden
+}
+.contact input[type=checkbox]{
+	    margin-right: 9px;
+    margin-top: 14px;
+}
+.submit {
+     margin-bottom: 22px;
+    margin-top: 43px;
+
+}
+.contact form p{    margin-top: 18px;}
+.contact_info p{
+	    font-size: 18px;
+}
+.contact_info h2{}
+.contact_info h3{}
+.footer_bg {
+    background: rgba(33, 30, 30, 0.91);
+    border-top: 5px solid #de2626;
+}
+.{}
+.{}
+.{}
+.{}
+.{}

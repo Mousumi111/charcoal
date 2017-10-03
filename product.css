@@ -1,0 +1,55 @@
+.products{    margin-top: 152px;}
+.products h2{
+    color: gray;	
+}
+.two{
+    margin-top: 47px;
+    width: 261px;
+	margin-bottom: 30px;
+	
+}
+.two img{ 
+    width: 269px;
+    height: 284px;
+    box-shadow: 10px 1px 11px rgba(128, 128, 128, 0.02);
+    border: 1px solid rgba(0, 180, 231, 0.16);
+    border-radius: 4px;
+}
+.two img:hover{   border: 5px solid rgb(169, 38, 38);}
+.two h3{
+	    color: #a92626;
+    font-size: 21px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+}
+.two p{
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 35px;
+}
+.end{}
+.two button{
+		padding: 10px 19px;
+    background: #a92626;
+	font-family: 'Lato', sans-serif;
+}
+.products p{font-size:20px}
+.first{}
+.first h3{
+	    color: #a92626;
+    font-size: 22px;
+    margin-top: 33px;
+    margin-bottom: 21px;
+}
+.first p{
+    font-size: 20px;
+    margin-bottom: 22px;
+}
+.{}
+.one {
+
+}
+.footer_bg {
+    background: rgba(33, 30, 30, 0.91);
+    border-top: 5px solid #de2626;
+}

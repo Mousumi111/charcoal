@@ -1,0 +1,122 @@
+.inquiry{
+	    margin-top: 173px;
+		overflow:hidden
+}
+.inquiry h2{
+	    color: gray;
+    font-size: 30px;
+}
+.inquiry a{
+	    color: red;
+    font-size: 20px;
+    text-decoration: none;
+}
+.inquiry p{
+	    margin-bottom: 48px;
+}
+.inquiry form{}
+.text7{
+    width: 725px;
+    height: 55px;
+    border: 1px solid rgba(128, 128, 128, 0.47);
+    margin-bottom: 20px;
+    padding: 26px;
+
+}
+.text1{    
+	width: 436px;
+    height: 55px;
+    border: 1px solid rgba(128, 128, 128, 0.47);
+    margin-bottom: 20px;
+    padding: 26px;
+	 border-radius: 4px;
+	}
+.text2{
+    width: 267px;
+    height: 55px;
+    border: 1px solid rgba(128, 128, 128, 0.47);
+    margin-bottom: 20px;
+    padding: 26px;
+    margin-left: 19px;
+    border-radius: 4px;
+}
+.inquiry h5 {
+    font-size: 13px;
+    color: gray;
+    font-weight: bold;
+    margin-bottom: 33px;
+}
+.text2{}
+.inquiry h5{}
+.inquiry form[type=radio]{}
+.inquiry form[type=checkbox]{}
+.inquiry textarea{}
+.direct_charcoal_information{
+	    margin-top: 173px;
+}
+input[type=checkbox], input[type=radio] {
+    margin: 4px 0 0;
+    margin-top: 1px\9;
+    line-height: normal;
+    margin-right: 17px;
+    margin-bottom: 10px;
+}
+textarea {
+    padding: 19px;
+    border: 1px solid rgba(128, 128, 128, 0.43);
+    border-radius: 4px;
+    width: 720px;
+    height: 226px;
+    margin-bottom: 20px;
+}
+.direct_charcoal_information h2{}
+.direct_charcoal_information p{}
+.submit{
+	    margin-top: 24px;
+    margin-bottom: 23px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}

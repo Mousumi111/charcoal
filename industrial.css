@@ -1,0 +1,38 @@
+.industrial{
+    margin-top: 153px;
+    margin-bottom: 130px;
+    text-align: center;
+    width: 298px;
+    height: 291px;
+}
+.industrial img{
+	width: 298px;
+    height: 291px;
+}
+.industrial_info{
+	margin-top: 217px;
+}
+.industrial_info h3{
+	font-size: 30px;
+}
+.industrial_info p{
+	font-size: 18px;
+}
+.footer_bg {
+    background: rgba(33, 30, 30, 0.91);
+    border-top: 5px solid #de2626;
+}
+.industrial_info a{
+	    color: red;
+    text-decoration: none;
+    font-size: 18px;
+}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}

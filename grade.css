@@ -1,0 +1,119 @@
+.grade_charcoal{
+     margin-top: 160px;
+    overflow: hidden;
+    width: 846px;
+    background: white;
+}
+.grade_bg{
+	    width: 830px;
+    margin: auto;
+}
+.grade_left{
+	width: 334px;
+    float: left;
+    margin-right: 80px;
+}
+.grade_left img{
+    width: 334px;
+    height: 399px;
+}
+.grade_right{
+	margin-top: 83px;
+}
+.grade_right h2{}
+.grade_right h3{}
+.grade_right p{
+	margin-top: 37px;
+    margin-bottom: 30px;
+}
+.grade_right h4{
+	margin-top: 37px;
+    margin-bottom: 30px;
+}
+.grade_right form{}
+.grade_right input[type=number]{
+    border: 1px solid rgba(128, 128, 128, 0.45);
+    width: 100px;
+    height: 5px;
+    margin-right: 145px;
+    padding: 16px;
+}
+.grade_right form select{
+	    width: 152px;
+    height: 35px;
+    padding: 6px;
+    border: 1px solid rgba(128, 128, 128, 0.29);
+}
+.submit{
+	    margin-top: 45px;
+}
+.grade_right h5{
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 40px;
+}
+.grade_right a{}
+.related_info{}
+.related_info h3{}
+.related{
+	width: 252px;
+    float: left;
+    margin-right: 53px;
+    text-align: justify;
+}
+.related a{}
+.related p{}
+.descripton_bg{}
+.first{
+	margin-top: 50px;
+	width: 278px;
+    height: 555px;
+    float: left;
+	margin-right:20px
+}
+.description{
+    width: 846px;
+    background: white;
+   
+    margin-top: 39px;
+}
+.first a{}
+.descripton_bg{
+	    width: 844px;
+}
+.descripton_bg h3{
+	    color: gray;
+    font-size: 21px;
+    margin-top: 44px;
+}
+.descripton_bg p{
+	    font-size: 15px
+}
+.related_info{}
+.related_info h3{}
+.related p{}
+.related a{}
+.related_end{}
+.related_end h3{}
+.related_end p{}
+.related_end a{}
+h2 {
+    font-size: 30px;
+    margin-top: 84px;
+    color: gray;
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}

@@ -1,0 +1,44 @@
+.bg_res{
+	
+	box-shadow: -1px 0px 32px grey;
+    margin-bottom: 54px;
+}
+.bg_bottom{    margin-top: -90px;}
+.restaurent{
+	    margin-top: 140px;
+}
+.restaurent p{    font-size: 18px;}
+.restaurent_product_img {
+    width: 100%;
+    height: 350px;
+    margin-top: 91px;
+}
+.restaurent_product_img img{
+	width: 87%;
+    height: 350px;
+}
+.restaurent_product{
+	margin-top: 91px;
+}
+.restaurent_product h2{}
+.restaurent_product p{}
+.list_new{
+	    margin-bottom: 37px;
+}
+.list_new ul{}
+.list_new ul li{
+    padding: 2px;
+    font-size: 18px;
+}
+.list_new ul li a{}
+.list_new a{
+	font-size: 17px;
+	color:red;}
+	.footer_bg {
+    background: rgba(33, 30, 30, 0.91);
+    border-top: 5px solid #de2626;
+}
+.{}
+.{}
+.{}
+.{}
